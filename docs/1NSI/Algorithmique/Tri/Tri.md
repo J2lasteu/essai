@@ -3,7 +3,7 @@
 ![image](data/BO.png){: .center}-->
 ![](img/BO.png){: .center}
 
-=== "Tri Sélection"
+=== "Tri noyon"
 
     ## 1. Animation Tri Sélection
     Considérons la liste `[5, 4, 2, 1]`  
